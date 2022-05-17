@@ -1,4 +1,11 @@
 # Woodworking-Interactive-wall
-Interactive wall for NTUT Woodworking Training Design Research Center
+Interactive wall for NTUT Woodworking Training Design Research Center  
+  
+![w](https://i.imgur.com/KYgIBHq.png)
 
-**video:** https://drive.google.com/file/d/1coZrFUS3xKLutuhme5SLCRrQQxWTA85v/view?usp=sharing
+**video:**  
+https://youtu.be/e1mk6hwbUlI  
+  
+https://youtu.be/cWbFhYl_Wx8  
+  
+https://youtu.be/WVpxQ3wKSS8
